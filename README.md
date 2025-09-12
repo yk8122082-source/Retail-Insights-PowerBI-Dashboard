@@ -1,45 +1,46 @@
-📊 Retail Insights Power BI Dashboard
+📊 Task 8: Retail Insights Power BI Dashboard
 🔹 Overview
 
-This project is an interactive Power BI dashboard built to analyze retail sales performance using the Superstore dataset.
-It provides a consolidated view of revenue, profit, orders, and customer segments to support data-driven decision-making.
+ Building an interactive Power BI dashboard using the Superstore Sales dataset.
+The dashboard tracks key business metrics and provides insights into retail sales performance with KPIs, filters, and custom visuals.
 
 🔹 Dataset
-
 Source: Superstore Sales Dataset (Kaggle)
 
-Fields: Order Date, Region, Category, Sub-Category, Sales, Profit, Quantity, Customer Segment
+Fields: Order Date, Sales, Profit, Quantity, Category, Sub-Category, Region, Customer Segment
 
 🔹 Key Features
 
-✔️ Sales overview – Total revenue, orders, and profit
-✔️ Category & Sub-Category analysis – Best and worst performers
-✔️ Regional insights – Compare sales across regions
-✔️ Customer segmentation – Consumer, Corporate, Home Office
-✔️ Trend analysis – Monthly and yearly growth patterns
-✔️ Interactive filters – Slicers for Region, Category, Year
+✔️ KPIs – Total Revenue, Total Orders, Average Order Value
+✔️ Top Products & Categories – Identify best and worst performers
+✔️ Regional Sales Analysis – Compare performance across regions
+✔️ Trend Analysis – Monthly and yearly sales patterns
+✔️ Interactive Filters – Slicers for Region, Category, Year
+✔️ Custom Visuals – Engaging charts and dashboards
 
 🔹 Tools Used
 
 Power BI Desktop – Dashboard creation & interactive visuals
 
-Excel – Data cleaning and preparation
+Excel – Data cleaning & preprocessing
 
-DAX – Custom KPIs (YoY and MoM growth)
+DAX – Custom measures (YoY, MoM growth, KPIs)
 
-🔹 Insights & Business Value
+🔹 Covered Topics
 
-📈 Technology & Furniture are top revenue drivers
+📌 Data Modeling
 
-🌍 The West region outperforms other regions in sales
+📌 Interactive Visualization
 
-📉 Tables category shows low profit margins despite high sales
+📌 BI Dashboarding
 
-🔄 Seasonal peaks occur in November–December
+🔹 Bonus
+
+Optionally, the dashboard can be published to the Power BI Service for web sharing.
 
 🔹 Files in Repository
 
-Retail_Insights_Dashboard.pbix → Power BI dashboard
+Retail_Insights_Dashboard.pbix → Power BI Dashboard file
 
 Superstore_Sales.xlsx → Dataset used
 
@@ -47,8 +48,13 @@ README.md → Project documentation
 
 🔹 How to Use
 
-Download the repo.
+Clone or download this repository.
 
 Open Retail_Insights_Dashboard.pbix in Power BI Desktop.
 
-Use the slicers (Region, Category, Year) to explore the insights.
+Use the slicers to explore insights by Region, Category, and Year.
+
+🔹 Preview
+
+
+✨ This dashboard demonstrates how raw sales data can be transformed into actionable business insights using Power BI.
