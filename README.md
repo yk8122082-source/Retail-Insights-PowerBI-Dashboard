@@ -54,7 +54,5 @@ Open Retail_Insights_Dashboard.pbix in Power BI Desktop.
 
 Use the slicers to explore insights by Region, Category, and Year.
 
-🔹 Preview
 
-
-✨ This dashboard demonstrates how raw sales data can be transformed into actionable business insights using Power BI.
+✨ This dashboard demonstrates how raw sales data can be transformed into actionable business insights using Power BI
